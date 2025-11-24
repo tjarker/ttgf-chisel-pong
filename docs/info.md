@@ -9,12 +9,16 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The pong games has several modules for the different objects in the game, 
+which drive the vga based on the current pixel position.
 
 ## How to test
 
-Explain how to use your project
+Connect four push buttons to control the paddels to play manually.
+
+Otherwise, latch up the two autopilot mode selectors and watch the game play itself.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+- 4 push buttons for manual control of the paddles
+- VGA monitor
